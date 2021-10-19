@@ -20,6 +20,7 @@ Scrapers:
 Work Projects:
 # imusystem -> Live data processing and analysis for lower body kinematics. Built on open-source Chordata.cc.
 # imusystem_webserver -> Webserver built with Python/Flask to easily manage imusystem repository on headless Raspberry Pi.
+# gait_analysis -> Collection of signal processing classes for analyzing walking patterns and stability in human subjects.
 ```
 ```
 Private Repositories (unpolished, unfinished, experimental):
