@@ -9,7 +9,6 @@
 Games:
 # pyChess -> 2-player chess game w/ TUI & GUI. TUI supports network matches, GUI runs on Pygame.
 # pySnake -> 1-player snake game w/ included bot. GUI runs on Pygame.
-# pyBlackjack -> 1-player blackjack 
 ```
 ```
 Scrapers:
