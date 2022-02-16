@@ -14,6 +14,7 @@ Games:
 Scrapers:
 # liberty_scraper -> Grabs data on all used cars at a local dealership, removes unwanted options, and saves to desktop.
 # researchgate_crawler -> Uses a start URL and keyword list to search research papers on researchgate through resource/citation links.
+# reddit_save_scrape -> GUI for saving processing, searching, and analyzing saved posts on Reddit.
 ```
 ```
 Work Projects:
